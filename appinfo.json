@@ -1,0 +1,17 @@
+{
+  "uuid": "595f71c3-d254-4d7b-b82a-12825ac3da41",
+  "shortName": "TideWatch",
+  "longName": "TideWatch",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
